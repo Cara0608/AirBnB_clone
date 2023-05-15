@@ -1,1 +1,1 @@
-This is the AirBnB project,
+This is the AirBnB project.
